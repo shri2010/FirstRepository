@@ -1,0 +1,8 @@
+C:\Users\shrit\source\repos\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\shrit\source\repos\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\shrit\source\repos\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\shrit\source\repos\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shrit\source\repos\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shrit\source\repos\WebApplication4\WebApplication4\obj\Debug\AngularJSPractice.csproj.CoreCompileInputs.cache
+C:\Users\shrit\source\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\shrit\source\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb

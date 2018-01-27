@@ -4,9 +4,9 @@
         .controller('myController', myController)
     .filter('first', FirstFilterFactory);
     myController.$inject = ['$scope', 'firstFilter'];
-    function myController($scope,firstFilter)
-    {
+    function myController($scope, firstFilter) {
         var msg = "hello";
+        $scope.namesList = ["alpha", "beta", "chemistyr", "physics", "Ram", "Shyam", "Rama"];
 
         $scope.testFilter = function ()
         {
